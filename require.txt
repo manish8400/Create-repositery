@@ -8,3 +8,6 @@ call
 video call
 text with emage 
 dark mode
+
+send money
+received money
