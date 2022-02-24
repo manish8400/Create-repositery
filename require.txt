@@ -5,3 +5,6 @@ emogi
 file
 v
 call
+video call
+text with emage 
+dark mode
